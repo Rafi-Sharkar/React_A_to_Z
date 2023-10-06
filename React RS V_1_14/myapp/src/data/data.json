@@ -1,0 +1,26 @@
+[
+    {
+        "name" : "Hasan Al Banna",
+        "pos" : "Junior devoloper",
+        "about" : "I am a CSE 2nd year student at IUB.And also I am a FullStack web devoloper",
+        "lang" : "Python, JavaScript, PHP"
+    },
+    {
+        "name" : "Rafi Sharkar",
+        "pos" : "Junior Data Scientist",
+        "about" : "I am a CSE 2nd year student at IUB.And also I am a FullStack web devoloper",
+        "lang" : "Python, R, Ruby"
+    },
+    {
+        "name" : "Mahmudul Hasan",
+        "pos" : "Senior devoloper",
+        "about" : "I am a CSE 2nd year student at IUB.And also I am a FullStack web devoloper",
+        "lang" : "Python, JavaScript, Java"
+    },
+    {
+        "name" : "Asif",
+        "pos" : "Junior programmer",
+        "about" : "I am a CSE 2nd year student at IUB.And also I am a FullStack web devoloper",
+        "lang" : "C++, Java"
+    }                                   
+]

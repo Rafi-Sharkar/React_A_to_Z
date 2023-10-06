@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.headingStyle{
+    background-color: rgb(44, 111, 179);
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+.card{
+    background-color: #15606d;
+    box-shadow: 5px 7px 4px gray;
+    border-radius: 2px 2px 45px 45px;
+    margin: 10px;
+    width: 30%;
+    display: inline-block;
+}
+.empName{
+    text-align: center;
+    padding: 20px 0px 10px 0px;
+    font-size: 1.7rem;
+    font-weight: bold;
+}
+.empPos{
+    text-align: center;
+    padding: 0px 10px 5px 10px;
+    font-weight: bold;
+    color: white;
+}
+.empAbout{
+    text-align: center;
+    padding: 10px;
+}
+.empLang{
+    background-color: rgb(106, 106, 196);
+    text-align: center;
+    border-radius: 0px 0px 40px 40px;
+    padding: 10px;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
